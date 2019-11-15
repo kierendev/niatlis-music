@@ -26,7 +26,6 @@ module.exports = {
   /*
    ** Global CSS
    */
-  buildDir: 'docs',
   css: [],
   /*
    ** Plugins to load before mounting the App

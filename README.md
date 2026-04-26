@@ -1,4 +1,7 @@
-# musicfinder
+# musicfinder - 2019. 
+
+ARCHIVED
+This project used the Spotify API Recommendation system - which unfortantely was removed from Spotify's API. The project has been archived. 
 
 > Find music using Spotify
 
